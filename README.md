@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## My Name is Christoper Luis Alexander
+<hr />
+
+💻 Computer Science <br />
+🎓 Graduated from Binus University @Malang <br />
+👩‍💻 I’m currently learning on developing website using ReactJS <br />
+🔥 Interested in develop application such as website and Android <br />
+
+## You can reach me:
+📧 c.luis0704@gmail.com / christoper.l0704@gmail.com <br />
+🔗 Linkedin: https://www.linkedin.com/in/christoperluis/
+
 <!--
 **Christoper0704/Christoper0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
