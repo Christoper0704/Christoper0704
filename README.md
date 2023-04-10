@@ -10,7 +10,7 @@
 💼 Currently looking for job
 
 ## You can reach me:
-📧 c.luis0704@gmail.com / christoper.l0704@gmail.com / christoper.alexander@binus.ac.id <br />
+📧 Email: c.luis0704@gmail.com / christoper.l0704@gmail.com / christoper.alexander@binus.ac.id <br />
 🔗 Linkedin: https://www.linkedin.com/in/christoperluis/
 
 <!--
