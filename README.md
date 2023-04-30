@@ -17,7 +17,7 @@
 📧 Email: c.luis0704@gmail.com / christoper.l0704@gmail.com / christoper.alexander@binus.ac.id <br />
 🔗 Linkedin: https://www.linkedin.com/in/christoperluis/ <br><br>
 
-Portofolio Web: https://christoper0704.github.io/PortofolioWeb/
+Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/
 
 <!--
 **Christoper0704/Christoper0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
