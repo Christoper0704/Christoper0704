@@ -21,7 +21,10 @@
 <a href="https://discordapp.com/users/692371678579261440">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://facebook.com/c.luis0704">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
-💻 Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/
+💻 Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/ <br /><br />
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Christoper0704)](https://github.com/Christoper0704) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christoper0704&layout=compact)](https://github.com/Christoper0704)
 
 <!--
 **Christoper0704/Christoper0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
