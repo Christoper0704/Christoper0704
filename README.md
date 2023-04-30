@@ -14,12 +14,14 @@
 - Reading books
 
 ## You can reach me:
-📧 Email: c.luis0704@gmail.com / christoper.l0704@gmail.com / christoper.alexander@binus.ac.id <br />
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [I]: c.luis0704@gmail.com <br />
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [II]: christoper.l0704@gmail.com <br />
+📧 Another Email: christoper.alexander@binus.ac.id <br /><br />
 <a href="https://www.linkedin.com/in/christoperluis">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://discordapp.com/users/692371678579261440">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://facebook.com/c.luis0704">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
-Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/
+💻 Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/
 
 <!--
 **Christoper0704/Christoper0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
