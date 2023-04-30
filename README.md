@@ -19,7 +19,11 @@
 📧 Another Email: christoper.alexander@binus.ac.id <br /><br />
 <a href="https://www.linkedin.com/in/christoperluis">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://discordapp.com/users/692371678579261440">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://www.instagram.com/c.luis0704">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://facebook.com/c.luis0704">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href="https://www.tiktok.com/@c.luis0704/">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a>
+<a href="https://twitter.com/ChristoperLuis1">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.youtube.com/@christoperluis9118">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 
 💻 Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/ <br /><br />
 
