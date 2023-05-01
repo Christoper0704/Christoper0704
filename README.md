@@ -39,7 +39,7 @@
 <a href="https://open.spotify.com/user/21iftu5elkfnqbu7paq5jyqwy?si=e079dde3e8d24e60">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://github.com/Christoper0704">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
-💻 Portofolio Web [Ongoing] : https://christoper0704.github.io/PortofolioWeb/ <br /><br />
+💻 Portofolio Web (Personal Website) [Ongoing] : https://christoper0704.github.io/PortofolioWeb/ <br /><br />
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Christoper0704)](https://github.com/Christoper0704) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christoper0704&layout=compact)](https://github.com/Christoper0704)
