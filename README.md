@@ -7,7 +7,6 @@
 🎓 Graduated from Binus University @Malang <br />
 👩‍💻 I’m currently learning on developing website using ReactJS <br />
 🔥 Interested in develop application such as website and Android <br />
-💼 Currently looking for job <br />
 🏓 My Hobbies are:
 - 🎮 Playing games
 - 🎬 Watching movies
